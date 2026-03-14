@@ -2,12 +2,10 @@
  * @name Collapsible Users
  * @description A clean, collapsible user panel for Discord.
  * @author Nolgra
- * @version 1.0.0   
+ * @version 1.1.0   
  * @source https://github.com/Nolgra/Collapsible-Users
  * @website https://www.nolgra.dev
 */
-
-/* import theme modules */
 
 .container_c8ffbb,.membersWrap_c8ffbb{
     transition-duration:var(--transition-time);
